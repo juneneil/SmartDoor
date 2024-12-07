@@ -7,18 +7,9 @@
  * @description Responsive tables plug-in for DataTables
  * @version     2.2.7
  * @file        dataTables.responsive.js
- * @author      SpryMedia Ltd (www.sprymedia.co.uk)
- * @contact     www.sprymedia.co.uk/contact
- * @copyright   Copyright 2014-2021 SpryMedia Ltd.
- *
- * This source file is free software, available under the following license:
- *   MIT license - http://datatables.net/license/mit
- *
- * This source file is distributed in the hope that it will be useful, but
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
- * or FITNESS FOR A PARTICULAR PURPOSE. See the license files for details.
- *
- * For details please refer to: http://www.datatables.net
+ * @author      System Door System
+ * @contact     none
+ * @copyright   Copyright 2024
  */
 (function( factory ){
 	if ( typeof define === 'function' && define.amd ) {

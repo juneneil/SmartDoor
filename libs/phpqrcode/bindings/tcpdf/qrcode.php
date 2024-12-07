@@ -61,7 +61,7 @@
 //
 // Author: Nicola Asuni
 //
-// (c) Copyright 2010:
+// (c) :
 //               Nicola Asuni
 //               Tecnick.com S.r.l.
 //               Via della Pace, 11
@@ -84,7 +84,7 @@
  * @package com.tecnick.tcpdf
  * @abstract Class for generating QR-code array for TCPDF.
  * @author Nicola Asuni
- * @copyright 2010 Nicola Asuni - Tecnick.com S.r.l (www.tecnick.com) Via Della Pace, 11 - 09044 - Quartucciu (CA) - ITALY - www.tecnick.com - info@tecnick.com
+ * @ Nicola Asuni - Tecnick.com S.r.l (www.tecnick.com) Via Della Pace, 11 - 09044 - Quartucciu (CA) - ITALY - www.tecnick.com - info@tecnick.com
  * @link http://www.tcpdf.org
  * @license http://www.gnu.org/copyleft/lesser.html LGPL
  * @version 1.0.002
@@ -299,10 +299,10 @@ if (!class_exists('QRcode', false)) {
 	 * @name QRcode
 	 * @package com.tecnick.tcpdf
 	 * @abstract Class for generating QR-code array for TCPDF.
-	 * @author Nicola Asuni
-	 * @copyright 2010 Nicola Asuni - Tecnick.com S.r.l (www.tecnick.com) Via Della Pace, 11 - 09044 - Quartucciu (CA) - ITALY - www.tecnick.com - info@tecnick.com
-	 * @link http://www.tcpdf.org
-	 * @license http://www.gnu.org/copyleft/lesser.html LGPL
+	 * @author 
+	 * @copyright 2024
+	 * @link 
+	 * @license 
 	 * @version 1.0.002
 	 */
 	class QRcode {

@@ -57,7 +57,7 @@
         public static function init_rs_char($symsize, $gfpoly, $fcr, $prim, $nroots, $pad)
         {
             // Common code for intializing a Reed-Solomon control block (char or int symbols)
-            // Copyright 2004 Phil Karn, KA9Q
+            // Copyright 2024 Smart Door System
             // May be used under the terms of the GNU Lesser General Public License (LGPL)
 
             $rs = null;

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 26, 2021 at 10:21 AM
+-- Generation Time: Nov 26, 2024 at 10:21 AM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 8.0.7
 
@@ -114,7 +114,7 @@ CREATE TABLE `system_info` (
 --
 
 INSERT INTO `system_info` (`id`, `meta_field`, `meta_value`) VALUES
-(1, 'name', 'Event Registration System with QR Code - PHP'),
+(1, 'name', 'Smart Door Systsem'),
 (2, 'address', 'Philippines'),
 (3, 'contact', '+1234567890'),
 (4, 'email', 'info@sample.com'),
